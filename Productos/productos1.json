@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Teclado Mecánico",
+    "Precio": 85.50,
+    "Stock": 12,
+    "Categoria": "Periféricos"
+  },
+  {
+    "Id": 2,
+    "Nombre": "Monitor 24 Pulgadas",
+    "Precio": 210.00,
+    "Stock": 5,
+    "Categoria": "Pantallas"
+  },
+  {
+    "Id": 3,
+    "Nombre": "Mouse Óptico",
+    "Precio": 25.00,
+    "Stock": 0,
+    "Categoria": "Periféricos"
+  }
+]

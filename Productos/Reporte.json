@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Nombre": "Teclado Mecánico",
+    "ValorTotalStock": 1026,
+    "NecesitaRepo": false
+  },
+  {
+    "Nombre": "Monitor 24 Pulgadas",
+    "ValorTotalStock": 1050,
+    "NecesitaRepo": false
+  },
+  {
+    "Nombre": "Mouse Óptico",
+    "ValorTotalStock": 0,
+    "NecesitaRepo": true
+  }
+]
